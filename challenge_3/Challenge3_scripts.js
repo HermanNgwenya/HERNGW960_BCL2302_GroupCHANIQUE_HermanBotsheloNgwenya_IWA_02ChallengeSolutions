@@ -25,5 +25,10 @@ cnosole.info('Please wait for scan to complete before closing the browser.)
   - to impress investors
   */
 
+  console.warn( 'security scan starting' );
+
+// It is important to let the user know when they can close the page 
+
+console.info( 'Please wait for scan to complete before closing the browser' )
 
 
