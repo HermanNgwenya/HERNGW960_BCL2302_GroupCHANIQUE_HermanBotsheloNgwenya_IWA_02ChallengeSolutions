@@ -29,6 +29,6 @@ cnosole.info('Please wait for scan to complete before closing the browser.)
 
 // It is important to let the user know when they can close the page 
 
-console.info( 'Please wait for scan to complete before closing the browser' )
+console.info( 'Please wait for scan to complete before closing the browser' );
 
 
