@@ -7,7 +7,7 @@ It is important to show the following message in order to:
 - to impress investors
 //
 
-console.warn(security scan starting)
+console.warn(Security scan starting)
 
 /* It is important to let the user know when they can close the page /*
 
@@ -25,7 +25,7 @@ cnosole.info('Please wait for scan to complete before closing the browser.)
   - to impress investors
   */
 
-  console.warn( 'security scan starting' );
+  console.warn( 'Security scan starting' );
 
 // It is important to let the user know when they can close the page 
 
